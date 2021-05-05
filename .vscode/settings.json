@@ -1,0 +1,4 @@
+{
+    "relax.breakDurationMinutes": 1,
+    "relax.winddownFramesPerMinute": 30
+}
